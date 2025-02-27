@@ -24,8 +24,6 @@ This repository contains my solutions to the Google Foobar Challenge, Google's s
 - **Task 5**:
   - [`task5.ipynb`](task5.ipynb) - Level 5 challenge
 
-- [`solution.py`](solution.py) - Combined solution file
-
 ## About Google Foobar
 
 Google Foobar is a secret invitation-only coding challenge used by Google for recruitment. The challenge consists of 5 levels with increasing difficulty, where each level contains 1-3 algorithmic problems to solve.
